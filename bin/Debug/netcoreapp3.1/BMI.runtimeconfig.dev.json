@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sayur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sayur\\.nuget\\packages",
+      "F:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
